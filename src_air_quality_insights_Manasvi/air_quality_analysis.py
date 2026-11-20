@@ -8,7 +8,6 @@
 # ============================================================
 # PROJECT: AIR QUALITY INSIGHTS DASHBOARD
 # Technologies: Python, Pandas and NumPy
-# Visualization libraries: Not used
 # ============================================================
 
 
@@ -18,9 +17,7 @@ import pandas as pd
 import numpy as np
 import os
 
-# Create output folder if it does not exist
 os.makedirs("output", exist_ok=True)
-
 
 # STEP 2: LOAD AND INSPECT DATASET
 
