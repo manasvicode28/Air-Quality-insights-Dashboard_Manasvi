@@ -1,7 +1,7 @@
 #Name:MANASVI
 #Email:manasvi.26b15410295@abes.ac.in
 #Admission no.:2026B15410295
-#GITHUB REPOSITORY NAME:https://github.com/manasvicode28/Student-performance-analysis
+#GITHUB REPOSITORY NAME:
 
 
 
